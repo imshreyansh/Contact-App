@@ -6,10 +6,10 @@ For adding a contact you have to simply click on add contact sign and add an ava
 
 How To:
 So first of all you have to download this whole repository on your desktop and by opening the folder of contact-app You will find two different folder there
-1: Server
+1: reactnd-contacts-server2-master
 2:Contact
 
-You have to first launch the server for opening the app:
+You have to first launch the reactnd-contacts-server2-master for opening the app:
 npm install 
 npm run
 
